@@ -101,7 +101,3 @@ Explore my food delivery project, including its source code and implementation d
 - **LinkedIn:** [linkedin.com/in/suryaps510](https://www.linkedin.com/in/suryaps510)
 - **LeetCode:** [surya0803](https://leetcode.com/u/surya0803/)
 - **CodeChef:** [suryaps_510]([https://leetcode.com/u/surya0803/](https://www.codechef.com/users/suryaps_510))
-
----
-
-⭐ *I'm focused on continuous learning, writing reliable automation, and building practical software projects.*
